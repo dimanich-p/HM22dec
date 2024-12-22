@@ -1,0 +1,28 @@
+{
+    "mycars": [
+        {
+            "id": 1,
+            "brand": "Fiat",
+            "model": "Uno",
+            "color": "Black"
+        },
+        {
+            "id": 2,
+            "brand": "Skoda",
+            "model": "Octavia",
+            "color": "Green"
+        },
+        {
+            "id": 3,
+            "brand": "Mercedes",
+            "model": "cls200",
+            "color": "Yellow"
+        },
+        {
+            "id": 4,
+            "brand": "Nissan",
+            "model": "Almera",
+            "color": "Grey"
+        }
+    ]
+}
